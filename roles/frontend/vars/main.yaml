@@ -1,5 +1,5 @@
-CATALOGUE_HOST: catalogue-{{env}}.daws2025.online
-USER_HOST: user-{{env}}.daws2025.online
-CART_HOST: cart-{{env}}.daws2025.online
-SHIPPING_HOST: shipping-{{env}}.daws2025.online
-PAYMENT_HOST: payment-{{env}}.daws2025.online
+CATALOGUE_HOST: catalogue.backend-{{env}}.daws2025.online
+USER_HOST: user.backend-{{env}}.daws2025.online
+CART_HOST: cart.backend-{{env}}.daws2025.online
+SHIPPING_HOST: shipping.backend-{{env}}.daws2025.online
+PAYMENT_HOST: payment.backend-{{env}}.daws2025.online

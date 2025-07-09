@@ -1,2 +1,2 @@
-CATALOGUE_HOST: catalogue-{{env}}.daws2025.online
+CATALOGUE_HOST: catalogue.backend-{{env}}.daws2025.online
 REDIS_HOST: redis-{{env}}.daws2025.online
